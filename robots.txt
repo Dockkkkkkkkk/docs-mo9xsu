@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-hs9et4.privatetalks.online/sitemap.xml
